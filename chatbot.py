@@ -614,24 +614,24 @@ class NewPages:
         plans = [
             {
                 "name": "1 Mês",
-                "price": "R$ 29,90",
-                "original": "R$ 49,90",
+                "price": "R$ 19,90",
+                "original": "R$ 39,90",
                 "benefits": ["Acesso total", "Conteúdo novo diário", "Chat privado"],
                 "tag": "COMUM",
                 "link": Config.CHECKOUT_VIP_1MES + "?plan=1mes"
             },
             {
                 "name": "3 Meses",
-                "price": "R$ 69,90",
-                "original": "R$ 149,70",
+                "price": "R$ 24,90",
+                "original": "R$ 59,90",
                 "benefits": ["25% de desconto", "Bônus: 1 vídeo exclusivo", "Prioridade no chat"],
                 "tag": "MAIS POPULAR",
                 "link": Config.CHECKOUT_VIP_3MESES + "?plan=3meses"
             },
             {
                 "name": "1 Ano",
-                "price": "R$ 199,90",
-                "original": "R$ 598,80",
+                "price": "R$ 34,90",
+                "original": "R$ 99,90",
                 "benefits": ["66% de desconto", "Presente surpresa mensal", "Acesso a conteúdos raros"],
                 "tag": "MELHOR CUSTO-BENEFÍCIO",
                 "link": Config.CHECKOUT_VIP_1ANO + "?plan=1ano"
