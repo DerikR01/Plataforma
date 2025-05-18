@@ -23,9 +23,9 @@ class Config:
     
     # URLs de checkout/páginas
     VIP_LINK = "https://exemplo.com/vip"
-    CHECKOUT_START = "https://checkout.exemplo.com/start"
-    CHECKOUT_PREMIUM = "https://checkout.exemplo.com/premium"
-    CHECKOUT_EXTREME = "https://checkout.exemplo.com/extreme"
+    CHECKOUT_START = "https://pay.risepay.com.br/Pay/f2ba490eefca47c5bb2f0e292e4a4ed5"
+    CHECKOUT_PREMIUM = "https://pay.risepay.com.br/Pay/719cc2c5180d4dfaa73c144afa054182"
+    CHECKOUT_EXTREME = "https://pay.risepay.com.br/Pay/61896aa20b01487cb1020f54c4b18de2"
     
     # URLs de assinatura VIP
     CHECKOUT_VIP_1MES = "https://checkout.exemplo.com/vip-1mes"
