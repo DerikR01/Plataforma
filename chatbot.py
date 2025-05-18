@@ -23,14 +23,14 @@ class Config:
     
     # URLs de checkout/páginas
     VIP_LINK = "https://exemplo.com/vip"
-    CHECKOUT_START = "https://pay.risepay.com.br/Pay/f2ba490eefca47c5bb2f0e292e4a4ed5"
-    CHECKOUT_PREMIUM = "https://pay.risepay.com.br/Pay/719cc2c5180d4dfaa73c144afa054182"
-    CHECKOUT_EXTREME = "https://pay.risepay.com.br/Pay/61896aa20b01487cb1020f54c4b18de2"
+    CHECKOUT_START = "https://go.disruptybr.com.br/4j4bp0jou2"
+    CHECKOUT_PREMIUM = "https://go.disruptybr.com.br/snn4achfal"
+    CHECKOUT_EXTREME = "https://go.disruptybr.com.br/r2bogj3vtv"
     
     # URLs de assinatura VIP
-    CHECKOUT_VIP_1MES = "https://pay.risepay.com.br/Pay/f2ba490eefca47c5bb2f0e292e4a4ed5"
-    CHECKOUT_VIP_3MESES = "https://pay.risepay.com.br/Pay/719cc2c5180d4dfaa73c144afa054182"
-    CHECKOUT_VIP_1ANO = "https://pay.risepay.com.br/Pay/61896aa20b01487cb1020f54c4b18de2"
+    CHECKOUT_VIP_1MES = "https://go.disruptybr.com.br/4j4bp0jou2"
+    CHECKOUT_VIP_3MESES = "https://go.disruptybr.com.br/snn4achfal"
+    CHECKOUT_VIP_1ANO = "https://go.disruptybr.com.br/r2bogj3vtv"
     
     # Limites e configurações
     MAX_REQUESTS_PER_SESSION = 30
