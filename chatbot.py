@@ -470,7 +470,7 @@ class NewPages:
         <div class="package-box package-start">
             <div class="package-header">
                 <h3 style="color: #ff66b3;">START</h3>
-                <div class="package-price" style="color: #ff66b3;">R$ 49,90</div>
+                <div class="package-price" style="color: #ff66b3;">R$ 19,90</div>
                 <small>para iniciantes</small>
             </div>
             <ul class="package-benefits">
